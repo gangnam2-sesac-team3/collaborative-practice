@@ -24,4 +24,10 @@ class item {
     name: String
     price: Double
 }
+
+class Plant {
+    type: PlanyType
+    location: String
+}
+
 @enduml
