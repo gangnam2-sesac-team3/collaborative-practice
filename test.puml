@@ -35,4 +35,12 @@ class Plant {
     location: String
 }
 
+
+class User {
+    name: String
+    email: String
+    age: Int
+    profileImage: String
+    bio: String
+}
 @enduml
