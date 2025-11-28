@@ -24,4 +24,12 @@ class item {
     name: String
     price: Double
 }
+
+class User {
+    name: String
+    email: String
+    age: Int
+    profileImage: String
+    bio: String
+}
 @enduml
