@@ -24,4 +24,10 @@ HOURS
 MINUTES
 }
 
+enum SignInState {
+    SignIn
+    SignOut
+    Loading
+}
+
 @enduml
