@@ -24,4 +24,9 @@ class item {
     name: String
     price: Double
 }
+
+class Weather {
+    temperature: Int
+    location: String
+}
 @enduml
