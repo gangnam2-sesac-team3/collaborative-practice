@@ -7,4 +7,17 @@ class User {
     + email: String
     + fun getName()
 }
+
+enum TimeUnit {
+DAYS
+HOURS
+MINUTES
+}
+
+enum SignInState {
+    SignIn
+    SignOut
+    Loading
+}
+
 @enduml
