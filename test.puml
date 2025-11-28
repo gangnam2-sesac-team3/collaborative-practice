@@ -29,4 +29,10 @@ class Weather {
     temperature: Int
     location: String
 }
+
+class Plant {
+    type: PlanyType
+    location: String
+}
+
 @enduml
